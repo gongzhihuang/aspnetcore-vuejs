@@ -1,0 +1,1 @@
+{"loaders":{"css":[{"loader":"/Users/evan/Vue/vue-loader/node_modules/extract-text-webpack-plugin/dist/loader.js","options":{"omit":0,"remove":true}},{"loader":"css-loader"}],"stylus":[{"loader":"/Users/evan/Vue/vue-loader/node_modules/extract-text-webpack-plugin/dist/loader.js","options":{"omit":0,"remove":true}},{"loader":"css-loader?sourceMap"},{"loader":"stylus-loader"}]}}

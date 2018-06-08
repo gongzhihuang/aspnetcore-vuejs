@@ -1,0 +1,1 @@
+{"preLoaders":{"js":"/Users/evan/Vue/vue-loader/test/mock-loaders/js.js","css":"/Users/evan/Vue/vue-loader/test/mock-loaders/css.js"},"postLoaders":{"html":"/Users/evan/Vue/vue-loader/test/mock-loaders/html.js"}}

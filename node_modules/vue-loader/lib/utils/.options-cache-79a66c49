@@ -1,0 +1,1 @@
+{"loaders":{"unit-test":"babel-loader!skeleton-loader"}}

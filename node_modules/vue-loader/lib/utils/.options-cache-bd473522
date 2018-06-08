@@ -1,0 +1,1 @@
+{"preLoaders":{"i18n":"/Users/evan/Vue/vue-loader/test/mock-loaders/yaml.js"},"loaders":{"i18n":"/Users/evan/Vue/vue-loader/test/mock-loaders/i18n.js","blog":"marked"},"postLoaders":{"blog":"/Users/evan/Vue/vue-loader/test/mock-loaders/blog.js"}}
